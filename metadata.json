@@ -1,0 +1,7 @@
+{
+  "name": "SmartGrader AI",
+  "description": "An advanced AI-powered application to scan, grade, and enhance multiple-choice test papers using Gemini models. Features include automated grading, AI-driven image editing for scan quality, and high-resolution generation for certificates.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
